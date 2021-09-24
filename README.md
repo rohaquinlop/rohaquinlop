@@ -1,5 +1,5 @@
 ### Hi there 👋🏾, my name is Robin
-#### **professional analyst** at Banco de Occidente and **Systems engineering student** at Javeriana Cali
+#### **Professional analyst** at Banco de Occidente and **Systems engineering student** at Javeriana Cali
 I'm a competitive programmer who loves problem-solving, learn new things and enjoy music.
 
 I've participated in nationals and regionals ICPC competitions.
