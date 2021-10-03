@@ -3,10 +3,11 @@
 I'm a competitive programmer who loves problem-solving, learn new things and enjoy music.
 
 I've participated in nationals and regionals ICPC competitions.
-The 2020 ICPC South America-North Finals, 2020. Place 22.
-Colombia - XXXIV ACIS REDIS National Programming Marathon, 2020. Place 8.
-The 2019 ICPC South America-North Finals, 2019. Place 43.
-Colombia - XXXIII ACIS REDIS National Programming Marathon, 2019. Place 17.
+
+- The 2020 ICPC South America-North Finals, 2020. Place 22.
+- Colombia - XXXIV ACIS REDIS National Programming Marathon, 2020. Place 8.
+- The 2019 ICPC South America-North Finals, 2019. Place 43.
+- Colombia - XXXIII ACIS REDIS National Programming Marathon, 2019. Place 17.
 
 Skills: Python / C++ / C / VUE JS / REACT / JS / HTML / CSS / Bash
 
