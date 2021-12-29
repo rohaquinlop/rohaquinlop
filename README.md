@@ -9,7 +9,7 @@ I've participated in nationals and regionals ICPC competitions.
 - The 2019 ICPC South America-North Finals, 2019. Place 43.
 - Colombia - XXXIII ACIS REDIS National Programming Marathon, 2019. Place 17.
 
-Skills: Python / C++ / C / VUE JS / REACT / JS / HTML / CSS / Bash
+Skills: Flutter / Python / C++ / C / VUE JS / REACT / JS / HTML / CSS / Bash
 
 - 🔭 I’m currently working on my python library called **automathon** which helps simulating and visualizing finite automata 
 - 👯 I’m looking to collaborate on Open source projects 
@@ -17,7 +17,7 @@ Skills: Python / C++ / C / VUE JS / REACT / JS / HTML / CSS / Bash
 - 📫 How to reach me: rohaquinlop301@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rohaquinlop)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/robin-hafid-quintero-lopez/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/therobinquintero/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/RobinHafid)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCpA2-pYqfzbhdU80_4N-vPg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40'>](https://github.com/rohaquinlop/automathon)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rohaquinlop)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/robin-hafid-quintero-lopez/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/therobinquintero/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/RobinHafid)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCpA2-pYqfzbhdU80_4N-vPg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40'>](https://github.com/rohaquinlop/automathon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/flutter.svg' alt='python' height='40'>]
 
 
 <!--
