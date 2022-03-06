@@ -4,6 +4,7 @@ I'm a competitive programmer who loves problem-solving, learn new things and enj
 
 I've participated in nationals and regionals ICPC competitions.
 
+- Colombia - XXXV ACIS REDIS National Programming Marathon, 2021. Place 20.
 - The 2020 ICPC South America-North Finals, 2020. Place 22.
 - Colombia - XXXIV ACIS REDIS National Programming Marathon, 2020. Place 8.
 - The 2019 ICPC South America-North Finals, 2019. Place 43.
