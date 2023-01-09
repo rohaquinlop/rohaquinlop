@@ -1,5 +1,5 @@
 ### Hi there 👋🏾, my name is Robin
-#### **Systems engineering and computer science student** at Javeriana Cali
+#### **Former Software Engineer Intern** at Twilio, **Systems engineering and computer science student** at Javeriana Cali
 I'm a competitive programmer who loves problem-solving, learn new things and enjoy music.
 
 I've participated in nationals and regionals ICPC competitions.
