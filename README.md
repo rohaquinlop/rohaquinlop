@@ -1,8 +1,11 @@
 **Security Developer** at Fluid Attacks, Prev at Twilio.
 
+Rustlang contributor, Open Source contributor.
+
 Creator of [automathon](https://github.com/rohaquinlop/automathon) a Python library for simulating and visualizing finite automata.
 
 [![Downloads](https://static.pepy.tech/badge/automathon)](https://pepy.tech/project/automathon)
+
 
 **Systems engineering and computer science student** at Javeriana Cali.
 
