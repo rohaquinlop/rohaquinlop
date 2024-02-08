@@ -2,9 +2,9 @@
 
 Rustlang contributor, Open Source contributor.
 
-Creator of [automathon](https://github.com/rohaquinlop/automathon) a Python library for simulating and visualizing finite automata.
-
-[![Downloads](https://static.pepy.tech/badge/automathon)](https://pepy.tech/project/automathon)
+Creator of:
+- [automathon](https://github.com/rohaquinlop/automathon) a Python library for simulating and visualizing finite automata. [![Downloads](https://static.pepy.tech/badge/automathon)](https://pepy.tech/project/automathon)
+- [complexipy](https://github.com/rohaquinlop/complexipy) a Python library powered by Rust to calculate the cognitive complexity of the Python files.
 
 
 **Systems engineering and computer science student** at Javeriana Cali.
