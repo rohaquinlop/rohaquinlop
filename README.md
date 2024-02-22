@@ -1,4 +1,4 @@
-**Security Developer** at Fluid Attacks, Prev at Twilio.
+**Security Developer** at Fluid Attacks.
 
 Rustlang contributor, Open Source contributor.
 
