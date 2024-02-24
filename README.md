@@ -3,7 +3,7 @@
 Rustlang contributor, Open Source contributor.
 
 Creator of:
-- [automathon](https://github.com/rohaquinlop/automathon) A Python library for simulating and visualizing finite automata. [![Downloads](https://static.pepy.tech/badge/automathon)](https://pepy.tech/project/automathon)
+- [automathon](https://github.com/rohaquinlop/automathon) A Python library for simulating and visualizing finite automata.
 - [complexipy](https://github.com/rohaquinlop/complexipy) An extremely fast Python library to calculate the cognitive complexity of
 python files, written in Rust.
 - [compare-files](https://github.com/rohaquinlop/rust-compare-files) A simple CLI tool to compare two files. Written in Rust.
