@@ -1,4 +1,4 @@
-**Security Developer** at Fluid Attacks.
+**Software Engineer** at Fluid Attacks.
 
 Rustlang contributor, Open Source contributor.
 
