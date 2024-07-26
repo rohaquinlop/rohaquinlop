@@ -9,8 +9,8 @@ Creator of:
 
 | Project ⚙️ | Description 📝 | Badges 🛡️ |
 | :---: | :---: | :---: |
-| [automathon](https://github.com/rohaquinlop/automathon) | A Python library for simulating and visualizing finite automata | [![Downloads](https://static.pepy.tech/badge/automathon)](https://pepy.tech/project/automathon) |
 | [complexipy](https://github.com/rohaquinlop/complexipy) | An extremely fast Python library to calculate the cognitive complexity of python files, written in Rust | [![Downloads](https://static.pepy.tech/badge/complexipy)](https://pepy.tech/project/complexipy) [![Downloads](https://static.pepy.tech/badge/complexipy/month)](https://pepy.tech/project/complexipy) |
+| [automathon](https://github.com/rohaquinlop/automathon) | A Python library for simulating and visualizing finite automata | [![Downloads](https://static.pepy.tech/badge/automathon)](https://pepy.tech/project/automathon) |
 | [compare-files](https://github.com/rohaquinlop/rust-compare-files) | A simple CLI tool to compare two files. Written in Rust | |
 
 ### Open-Source Contributions
