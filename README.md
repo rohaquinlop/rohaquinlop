@@ -1,11 +1,12 @@
-Hi, I'm Robin 👋🏾
----
+# Hi, I'm Robin 👋🏾
 
 **Software Engineer** at Fluid Attacks.
 
 Rust contributor, Open-Source contributor.
 
-Creator of:
+## Creator of
+
+<div align="center">
 
 | Project ⚙️ | Description 📝 | Badges 🛡️ |
 | :---: | :---: | :---: |
@@ -13,9 +14,11 @@ Creator of:
 | [automathon](https://github.com/rohaquinlop/automathon) | A Python library for simulating and visualizing finite automata | [![Downloads](https://static.pepy.tech/badge/automathon)](https://pepy.tech/project/automathon) |
 | [compare-files](https://github.com/rohaquinlop/rust-compare-files) | A simple CLI tool to compare two files. Written in Rust | |
 
----
+</div>
 
 ## Open-Source Contributions
+
+<div align="center">
 
 | Project ⚙️ | PR 🔨 |
 | --- | --- |
@@ -23,9 +26,11 @@ Creator of:
 | [terraform-aws-gitlab-runner](https://github.com/cattle-ops/terraform-aws-gitlab-runner) | [PR - 962](https://github.com/cattle-ops/terraform-aws-gitlab-runner/pull/962) |
 | [Makes](https://github.com/fluidattacks/makes) | Role: Maintainer, added new features and improved the project |
 
+</div>
+
 ---
 
-### ICPC competitions
+## ICPC competitions
 
 Also, I have a background in Competitive Programming, here is the list of the ICPC competitions I participated:
 
