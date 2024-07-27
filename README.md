@@ -15,7 +15,7 @@ Creator of:
 
 ### Open-Source Contributions
 
-| Project ⚙️ | MR 🔨 |
+| Project ⚙️ | PR 🔨 |
 | --- | --- |
 | [Rust](https://github.com/rust-lang/rust) | [PR - 109418](https://github.com/rust-lang/rust/pull/109418) |
 | [terraform-aws-gitlab-runner](https://github.com/cattle-ops/terraform-aws-gitlab-runner) | [PR - 962](https://github.com/cattle-ops/terraform-aws-gitlab-runner/pull/962) |
