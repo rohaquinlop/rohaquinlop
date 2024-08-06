@@ -1,8 +1,6 @@
 # Hi, I'm Robin 👋🏾
 
-**Software Engineer** at Fluid Attacks.
-
-Rust contributor, Open-Source contributor.
+**Software Engineer**, (Rust, Open-Source) contributor.
 
 ## Creator of
 
@@ -16,7 +14,7 @@ Rust contributor, Open-Source contributor.
 
 </div>
 
-## Open-Source Contributions
+## Open-Source Highlights
 
 <div align="center">
 
