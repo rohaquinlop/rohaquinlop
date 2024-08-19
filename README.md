@@ -1,8 +1,14 @@
 # Hi, I'm Robin 👋🏾
 
-**Software Engineer**, (Rust, Open-Source) contributor.
+**Software Engineer** | Rust Enthusiast | Open-Source Contributor.
 
-## Creator of
+Ex-ICPC contestant, leader, and speaker. Passionate about building efficient and innovative tools that help developers work smarter, not harder.
+
+## My Mission 🚀
+
+I believe in creating software that combines efficiency and simplicity, contributing to the growth of the open-source community. Whether through Rust-based tools or Python libraries, my focus is always on delivering value through clean and maintainable code.
+
+## Open-Source Projects I've Created 👨🏾‍💻
 
 <div align="center">
 
@@ -15,7 +21,7 @@
 
 </div>
 
-## Open-Source Highlights
+## Open-Source Highlights ✨
 
 <div align="center">
 
@@ -26,3 +32,9 @@
 | [Makes](https://github.com/fluidattacks/makes) | Role: Maintainer, added new features and improved the project |
 
 </div>
+
+## Let's Connect! 🤝
+
+Feel free to check out my work, contribute, or reach out if you want to collaborate on something awesome!
+
+- [LinkedIn](https://www.linkedin.com/in/robin-hafid/)
