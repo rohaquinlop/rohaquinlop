@@ -1,12 +1,13 @@
 # Hi, I'm Robin 👋🏾
 
-**Software Engineer** | Rust Enthusiast | Open-Source Contributor.
+**Software Engineer** | Rust Enthusiast | Open-Source Contributor | Ex-ICPC Contestant
 
-Ex-ICPC contestant, leader, and speaker. Passionate about building efficient and innovative tools that help developers work smarter, not harder.
+Passionate about building efficient and innovative tools that help developers work smarter, not harder.
 
 ## My Mission 🚀
 
 I believe in creating software that combines efficiency and simplicity, contributing to the growth of the open-source community. Whether through Rust-based tools or Python libraries, my focus is always on delivering value through clean and maintainable code.
+
 
 ## Open-Source Projects I've Created 👨🏾‍💻
 
@@ -33,8 +34,3 @@ I believe in creating software that combines efficiency and simplicity, contribu
 
 </div>
 
-## Let's Connect! 🤝
-
-Feel free to check out my work, contribute, or reach out if you want to collaborate on something awesome!
-
-- [LinkedIn](https://www.linkedin.com/in/robin-hafid/)
