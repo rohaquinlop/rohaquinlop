@@ -2,11 +2,7 @@
 
 **Software Engineer** | Rust Enthusiast | Open-Source Contributor | Ex-ICPC Contestant
 
-Passionate about building efficient and innovative tools that help developers work smarter, not harder.
-
-## My Mission 🚀
-
-I believe in creating software that combines efficiency and simplicity, contributing to the growth of the open-source community. Whether through Rust-based tools or Python libraries, my focus is always on delivering value through clean and maintainable code.
+Passionate about building efficient and innovative tools that help developers.
 
 
 ## Open-Source Projects I've Created 👨🏾‍💻
