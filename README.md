@@ -26,7 +26,7 @@ Passionate about building efficient and innovative tools that help developers.
 | --- | --- |
 | [Rust](https://github.com/rust-lang/rust) | [PR - 109418](https://github.com/rust-lang/rust/pull/109418) |
 | [terraform-aws-gitlab-runner](https://github.com/cattle-ops/terraform-aws-gitlab-runner) | [PR - 962](https://github.com/cattle-ops/terraform-aws-gitlab-runner/pull/962) |
-| [Makes](https://github.com/fluidattacks/makes) | Role: Maintainer, added new features and improved the project |
+| [Makes](https://github.com/fluidattacks/makes) | Role: Former Maintainer, added new features and improved the project |
 
 </div>
 
