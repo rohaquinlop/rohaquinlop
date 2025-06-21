@@ -9,12 +9,11 @@ Passionate about building efficient and innovative tools that help developers.
 
 <div align="center">
 
-| Project ⚙️ | Description 📝 | Badges 🛡️ |
-| :---: | :---: | :---: |
-| [complexipy](https://github.com/rohaquinlop/complexipy) | An extremely fast Python library to calculate the cognitive complexity of python files, written in Rust | [![Downloads](https://static.pepy.tech/badge/complexipy)](https://pepy.tech/project/complexipy) |
-| [automathon](https://github.com/rohaquinlop/automathon) | A Python library for simulating and visualizing finite automata | [![Downloads](https://static.pepy.tech/badge/automathon)](https://pepy.tech/project/automathon) |
-| [immunipy](https://github.com/rohaquinlop/immunipy) | A Python SCA tool that acts as a watchdog, keeping an eye out for security vulnerabilities and reporting them promptly, written in Rust. | [![Downloads](https://static.pepy.tech/badge/immunipy)](https://pepy.tech/project/immunipy) |
-| [compare-files](https://github.com/rohaquinlop/rust-compare-files) | A simple CLI tool to compare two files. Written in Rust | |
+| Project ⚙️ | Description 📝 |
+| :---: | :---: |
+| [complexipy](https://github.com/rohaquinlop/complexipy) | An extremely fast Python library to calculate the cognitive complexity of python files, written in Rust |
+| [automathon](https://github.com/rohaquinlop/automathon) | A Python library for simulating and visualizing finite automata |
+| [immunipy](https://github.com/rohaquinlop/immunipy) | A Python SCA tool that acts as a watchdog, keeping an eye out for security vulnerabilities and reporting them promptly, written in Rust |
 
 </div>
 
@@ -29,4 +28,3 @@ Passionate about building efficient and innovative tools that help developers.
 | [Makes](https://github.com/fluidattacks/makes) | Role: Former Maintainer |
 
 </div>
-
