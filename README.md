@@ -1,30 +1,21 @@
 # Hi, I'm Robin 👋🏾
 
-**Software Engineer** | Rust Enthusiast | Open-Source Contributor | Ex-ICPC Contestant
+**Software Engineer** · **Rust Enthusiast** · **Open Source Advocate** · **Ex-ICPC Contestant**
 
-Passionate about building efficient and innovative tools that help developers.
+I'm passionate about building high-performance tools that empower developers — especially within the Rust and Python ecosystems.
 
+## 🛠 Projects I've Built
 
-## Open-Source Projects I've Created 👨🏾‍💻
+- **[complexipy](https://github.com/rohaquinlop/complexipy)** — Ultra-fast cognitive complexity analyzer for Python code, powered by Rust.
+- **[automathon](https://github.com/rohaquinlop/automathon)** — Intuitive Python toolkit for simulating and visualizing finite automata.
+- **[immunipy](https://github.com/rohaquinlop/immunipy)** — Rust-backed Python SCA tool for real-time vulnerability detection and reporting.
 
-<div align="center">
+## ✨ Notable Contributions
 
-| Project ⚙️ | Description 📝 |
-| :---: | :---: |
-| [complexipy](https://github.com/rohaquinlop/complexipy) | An extremely fast Python library to calculate the cognitive complexity of python files, written in Rust |
-| [automathon](https://github.com/rohaquinlop/automathon) | A Python library for simulating and visualizing finite automata |
-| [immunipy](https://github.com/rohaquinlop/immunipy) | A Python SCA tool that acts as a watchdog, keeping an eye out for security vulnerabilities and reporting them promptly, written in Rust |
+- [Rust](https://github.com/rust-lang/rust) — [PR #109418](https://github.com/rust-lang/rust/pull/109418)
+- [terraform-aws-gitlab-runner](https://github.com/cattle-ops/terraform-aws-gitlab-runner) — [PR #962](https://github.com/cattle-ops/terraform-aws-gitlab-runner/pull/962)
+- [Makes](https://github.com/fluidattacks/makes) — Former Maintainer
 
-</div>
+---
 
-## Open-Source Highlights ✨
-
-<div align="center">
-
-| Project ⚙️ | PR 🔨 |
-| --- | --- |
-| [Rust](https://github.com/rust-lang/rust) | [PR - 109418](https://github.com/rust-lang/rust/pull/109418) |
-| [terraform-aws-gitlab-runner](https://github.com/cattle-ops/terraform-aws-gitlab-runner) | [PR - 962](https://github.com/cattle-ops/terraform-aws-gitlab-runner/pull/962) |
-| [Makes](https://github.com/fluidattacks/makes) | Role: Former Maintainer |
-
-</div>
+Open to collabs in open source, Rust, or anything that brings tech closer to our communities 🚀🌍
