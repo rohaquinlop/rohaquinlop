@@ -1,20 +1,19 @@
 # Hi, I'm Robin 👋🏾
 
-**Software Engineer** · **Rust Enthusiast** · **Open Source Advocate** · **Ex-ICPC Contestant**
+**Software Engineer** · **Rust Enthusiast** · **Open Source Advocate**
 
-I'm passionate about building high-performance tools that empower developers — especially within the Rust and Python ecosystems.
+I'm passionate about building high-performance tools that empower developers, especially within the Rust and Python ecosystems.
 
-## 🛠 Projects I've Built
+## Projects I've Built
 
-- **[complexipy](https://github.com/rohaquinlop/complexipy)** — Ultra-fast cognitive complexity analyzer for Python code, powered by Rust.
-- **[automathon](https://github.com/rohaquinlop/automathon)** — Intuitive Python toolkit for simulating and visualizing finite automata.
-- **[immunipy](https://github.com/rohaquinlop/immunipy)** — Rust-backed Python SCA tool for real-time vulnerability detection and reporting.
+- **[complexipy](https://github.com/rohaquinlop/complexipy)** - An extremely fast Python library to calculate the cognitive complexity of Python files, written in Rust.
+- **[automathon](https://github.com/rohaquinlop/automathon)** - A Python library for simulating and visualizing finite automata
 
-## ✨ Notable Contributions
+## Notable Contributions
 
-- [Rust](https://github.com/rust-lang/rust) — [PR #109418](https://github.com/rust-lang/rust/pull/109418)
-- [terraform-aws-gitlab-runner](https://github.com/cattle-ops/terraform-aws-gitlab-runner) — [PR #962](https://github.com/cattle-ops/terraform-aws-gitlab-runner/pull/962)
-- [Makes](https://github.com/fluidattacks/makes) — Former Maintainer
+- [Rust](https://github.com/rust-lang/rust) - [PR #109418](https://github.com/rust-lang/rust/pull/109418)
+- [terraform-aws-gitlab-runner](https://github.com/cattle-ops/terraform-aws-gitlab-runner) - [PR #962](https://github.com/cattle-ops/terraform-aws-gitlab-runner/pull/962)
+- [Makes](https://github.com/fluidattacks/makes) - Former Maintainer
 
 ---
 
