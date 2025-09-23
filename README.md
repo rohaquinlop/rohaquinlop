@@ -7,6 +7,7 @@ I'm passionate about building high-performance tools that empower developers, es
 ## Projects I've Built
 
 - **[complexipy](https://github.com/rohaquinlop/complexipy)** - An extremely fast Python library to calculate the cognitive complexity of Python files, written in Rust.
+- **[GenLogs/mockylla](https://github.com/GenLogs/mockylla)** - A mock for the ScyllaDB Python driver for testing purposes
 - **[automathon](https://github.com/rohaquinlop/automathon)** - A Python library for simulating and visualizing finite automata
 
 ## Notable Contributions
