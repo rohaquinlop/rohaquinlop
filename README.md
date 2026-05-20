@@ -86,7 +86,6 @@ focus:
 
 ## Links
 
-- GitHub → https://github.com/rohaquinlop
 - LinkedIn → https://linkedin.com/in/robin-hafid
 - complexipy docs → https://rohaquinlop.github.io/complexipy/
 - complexipy teams → https://www.complexipy-teams.com
