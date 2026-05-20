@@ -51,13 +51,10 @@ Extremely fast cognitive complexity analysis for Python, powered by Rust.
 
 - **[mockylla](https://github.com/GenLogs/mockylla)**
   - Mock ScyllaDB Python driver for local testing and CI workflows.
-
 - **[fastiter](https://github.com/rohaquinlop/fastiter)**
   - Parallel iterators for Python powered by Rust.
-
 - **[automathon](https://github.com/rohaquinlop/automathon)**
   - Finite automata simulator and visualization library.
-
 - **[complexipy-action](https://github.com/rohaquinlop/complexipy-action)**
   - GitHub Action for cognitive complexity analysis.
 
