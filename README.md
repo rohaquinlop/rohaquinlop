@@ -1,6 +1,4 @@
-# Robin Hafid
-
-## Open Source Contributions
+**Open Source Contributions**
 
 - [rust-lang/rust](https://github.com/rust-lang/rust)
   - [PR #109418](https://github.com/rust-lang/rust/pull/109418)
