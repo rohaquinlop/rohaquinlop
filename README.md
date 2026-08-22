@@ -13,15 +13,21 @@ Extensions for [pi](https://github.com/earendil-works/pi), the extensible termin
 
 ### Claude Code
 
+Plugins and tools for [Claude Code](https://claude.com/product/claude-code).
+
 - [spec-driven-framework](https://github.com/rohaquinlop/spec-driven-framework) — spec-driven development plugin for Claude Code; the original behind pi-sdd
 - [be-terse](https://github.com/rohaquinlop/be-terse) — keeps responses terse (Simplified Technical English / caveman modes); modified fork, later ported to pi
 - [claude-multi-session-handler](https://github.com/rohaquinlop/claude-multi-session-handler) — switch between multiple Claude accounts instantly, no re-login; Rust CLI
 
 ### Agent infrastructure
 
+Standalone tooling around AI coding agents.
+
 - [michin](https://github.com/rohaquinlop/michin) — extensible terminal coding agent harness written in Rust
 - [gh-inline-review-comments](https://github.com/rohaquinlop/gh-inline-review-comments) — gh CLI extension that posts inline PR review comments; built for AI agents and scripts
 - [omarchy-agent-collectors](https://github.com/rohaquinlop/omarchy-agent-collectors) — Omarchy shell plugin feeding the `omarchy.agents` panel with usage from Pi, OpenCode, and more
+
+---
 
 ## Open Source Contributions
 
