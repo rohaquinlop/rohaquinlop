@@ -1,22 +1,21 @@
 ## AI & Agent Tooling
 
-### Pi extensions
+### How I work
 
-Extensions for [pi](https://github.com/earendil-works/pi), the extensible terminal coding agent.
+[shepherd](https://github.com/rohaquinlop/shepherd) drives each change from an issue to a merge-ready PR. One agent writes the code. A separate read-only agent, with no chat history, reviews it before every push.
 
-- [pi-deepseek-cache](https://github.com/rohaquinlop/pi-deepseek-cache): optimizes DeepSeek prefix cache hit rates; cuts input costs 95%+ in multi-turn coding sessions
-- [pi-sdd](https://github.com/rohaquinlop/pi-sdd): spec-driven development workflow: `/sdd:explore` → `propose` → `apply` → `archive`
-- [pi-be-terse](https://github.com/rohaquinlop/pi-be-terse): keeps pi's responses terse (Simplified Technical English / caveman modes)
-- [pi-led-status](https://github.com/rohaquinlop/pi-led-status): ThinkPad mute-key LED as agent status indicator: working, needs you, done
-- [@rohaquinlop/pi-subagents](https://github.com/rohaquinlop/pi-subagents): subagent orchestration tools (`subagent`, `pipeline`, `loop`) with scout/researcher/worker agents; maintained fork
-- [my-pi-config](https://github.com/rohaquinlop/my-pi-config): my full pi setup: settings, skills, prompt workflows, and custom TUI extensions
+study → brief → implement → review (max 3) → push → CI → triage comments → merge-ready
+
+When the cause of a bug is unknown, `/shepherd:diagnose` finds and proves it first. A fresh session then fixes it.
 
 ### Claude Code
 
 Plugins and tools for [Claude Code](https://claude.com/product/claude-code).
 
-- [spec-driven-framework](https://github.com/rohaquinlop/spec-driven-framework): spec-driven development plugin for Claude Code; the original behind pi-sdd
-- [be-terse](https://github.com/rohaquinlop/be-terse): keeps responses terse (Simplified Technical English / caveman modes); modified fork, later ported to pi
+- [shepherd](https://github.com/rohaquinlop/shepherd): issue → merge-ready PR loop with a fresh read-only reviewer; stops only for decisions that need you
+- [crit](https://github.com/rohaquinlop/crit): design work with an independent critique; Figma, HTML prototypes, images, and copy
+- [be-terse](https://github.com/rohaquinlop/be-terse): keeps responses terse (Simplified Technical English / caveman modes); modified fork
+- [claude-config](https://github.com/rohaquinlop/claude-config): my sanitized Claude Code setup: global instructions, skills, agents, hooks, status line
 - [claude-multi-session-handler](https://github.com/rohaquinlop/claude-multi-session-handler): switch between multiple Claude accounts instantly, no re-login; Rust CLI
 
 ### Agent infrastructure
@@ -25,6 +24,7 @@ Standalone tooling around AI coding agents.
 
 - [michin](https://github.com/rohaquinlop/michin): extensible terminal coding agent harness written in Rust
 - [gh-inline-review-comments](https://github.com/rohaquinlop/gh-inline-review-comments): gh CLI extension that posts inline PR review comments; built for AI agents and scripts
+- [led-notify](https://github.com/rohaquinlop/led-notify): ThinkPad mic-mute LED as agent status indicator, driven by Claude Code hooks
 - [omarchy-agent-collectors](https://github.com/rohaquinlop/omarchy-agent-collectors): Omarchy shell plugin feeding the `omarchy.agents` panel with usage from Pi, OpenCode, and more
 
 ---
