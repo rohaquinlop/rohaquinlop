@@ -18,7 +18,7 @@ Merged contributor to the **Rust compiler** ([rust-lang/rust](https://github.com
 
 ## Projects I maintain
 
-- [complexipy](https://github.com/rohaquinlop/complexipy) (900+ stars): Blazingly fast cognitive complexity analysis for Python, written in Rust
+- [complexipy](https://github.com/rohaquinlop/complexipy) (900+ stars, 8M+ downloads): Blazingly fast cognitive complexity analysis for Python, written in Rust
 - [automathon](https://github.com/rohaquinlop/automathon): A Python library for simulating and visualizing finite automata
 - [robinzhon](https://github.com/rohaquinlop/robinzhon): Minimal, high-performance Python helpers for concurrent S3 object transfers
 
